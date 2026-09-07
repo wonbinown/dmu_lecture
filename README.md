@@ -2,8 +2,7 @@
 this is simple testrepo
 cool again  
 
-
-3. 🌳 SourceTree 사용 가이드 (GUI로 쉽게 Git 다루기)
+🌳 SourceTree 사용 가이드 (GUI로 쉽게 Git 다루기)
 명령어를 외우지 않아도 클릭 몇 번으로 Git을 다룰 수 있게 해주는 편리한 도구인 SourceTree 사용법입니다.
 
 ① 내 컴퓨터로 저장소 가져오기 (Clone)
