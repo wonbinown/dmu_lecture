@@ -1,2 +1,2 @@
 # dmu_lecture
-this is simple testrepoo
+this is simple testrepo
